@@ -23,6 +23,7 @@ import getopt
 # @param username 用户名
 # @param password 密码
 # @param database 数据库名
+# @param table    数据表名
 # @param host     主机名，默认值为localhost
 # @param port     端口号
 # @param charset  字符编码，默认值为utf8
@@ -74,6 +75,7 @@ def MySQL2JSON(username, password, database, table, host="localhost", port=0, ch
 # @param username 用户名
 # @param password 密码
 # @param database 数据库名
+# @param table    数据表名
 # @param host     主机名，默认值为localhost
 # @param port     端口号
 # @param charset  字符编码，默认值为utf8
