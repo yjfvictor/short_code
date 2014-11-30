@@ -1,3 +1,3 @@
-Some Useful but Short Code
+Some Short but Useful Code
 ===
-These are some useful code, but very short. Some are even only one file.
+These are some useful code, although very short. Some are even in only one file.
